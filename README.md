@@ -1,4 +1,4 @@
-## Getting Started: 15:36
+## Getting Started: 1:38:56 --- Data Fetching
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
